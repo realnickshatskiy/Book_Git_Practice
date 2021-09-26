@@ -3,3 +3,7 @@ This is second file
 now we have Git enabled
 
 This is page2 of chapter1
+
+this is some added text
+
+we're two month in
