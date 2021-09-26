@@ -1,0 +1,9 @@
+This is the first page of chapter 1.
+
+This is our book
+
+Whole name : page1.txt
+
+Created new project
+Created a new package called chapter_1
+Created new file called page1.txt
