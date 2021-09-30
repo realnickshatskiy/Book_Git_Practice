@@ -3,3 +3,8 @@ hello,new day
 this is chapter 3
 
 this is page 1.
+
+this is new text 
+added from remote repo
+
+just checking how fetching works
